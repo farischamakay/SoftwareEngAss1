@@ -1,2 +1,2 @@
-# SoftwareEngAss1
+# Hello
 Assignment 1
